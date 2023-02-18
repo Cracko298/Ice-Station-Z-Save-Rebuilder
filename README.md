@@ -22,6 +22,6 @@ Rebuild Ice Station Z PC/Steam Child-Key (***1f0a58a9e0f84227.sav***).
 *I cannot because everyone's Save-Keys are unique, but have a fixed byte-size.*
 
 
-# Requirements:
+# Source Requirements:
 - Parent-Key (***9a2ba2abf4b728dd.sav***).
 - Python 3.9 or new(er).
