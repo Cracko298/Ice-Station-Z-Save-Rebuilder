@@ -2,7 +2,8 @@
 Rebuild Ice Station Z PC/Steam Child-Key (***1f0a58a9e0f84227.sav***).
 
 # Downloads:
-- [Download](https://github.com/Cracko298/Ice-Station-Z-Save-Rebuilder/releases/download/v1.0-Release-1/Rebuilder.py)
+- [Download Source](https://github.com/Cracko298/Ice-Station-Z-Save-Rebuilder/releases/download/v1.0-Release-1/Rebuilder.py)
+- [Download Compiled]()
 
 # FAQ:
 - ***Why would I need this?***
